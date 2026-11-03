@@ -1,6 +1,7 @@
 ### Hi there 👋
-Hello world!
+I'm Kalle, a software engineer interested in data management and IoT.
 
+I'm currently working on a web application for seeing which movies from your Letterboxd watchlist are screening in the city of your choice.
 <!--
 **koster1/koster1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
